@@ -1,19 +1,32 @@
 {
-  "posts": [
+"users": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "id":1,
+      "nama" : "wildan",
+      "alamat": "Bekasi",
+      "umur" : 19,
+      "email": "hamzah32@gmail.com"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id":2,
+      "nama" : "hamzah",
+      "alamat": "Jakarta",
+      "umur" : 18,
+      "email": "hamzah1@gmail.com"
+    },
+    {
+      "id":3,
+      "nama" : "Luna",
+      "alamat": "Bali",
+      "umur" : 20,
+      "email": "Lun4@gmail.com"
+    },
+    {
+      "id":4,
+      "nama" : "erda",
+      "alamat": "Bali",
+      "umur" : 20,
+      "email": "erda@gmail.com"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+]
 }
