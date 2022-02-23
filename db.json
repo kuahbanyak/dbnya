@@ -1,32 +1,50 @@
 {
-"users": [
-    {
-      "id":1,
-      "nama" : "wildan",
-      "alamat": "Bekasi",
-      "umur" : 19,
-      "email": "hamzah32@gmail.com"
-    },
-    {
-      "id":2,
-      "nama" : "hamzah",
-      "alamat": "Jakarta",
-      "umur" : 18,
-      "email": "hamzah1@gmail.com"
-    },
-    {
-      "id":3,
-      "nama" : "Luna",
-      "alamat": "Bali",
-      "umur" : 20,
-      "email": "Lun4@gmail.com"
-    },
-    {
-      "id":4,
-      "nama" : "erda",
-      "alamat": "Bali",
-      "umur" : 20,
-      "email": "erda@gmail.com"
-    }
-]
-}
+    "data":[
+       {
+          "namaWarung":"Warung A",
+          "totalBarang":100,
+          "icon":"store",
+          "totalUangYangHarusDibayar":" 100000",
+          "namaPemilik":"A",
+          "alamat":"A"
+       },
+       {
+          "namaWarung":"Warung B",
+          "totalBarang":300,
+          "icon":"store",
+          "totalUangYangHarusDibayar":" 300000",
+          "namaPemilik":"B",
+          "alamat":"B"
+       },
+       {
+          "namaWarung":"Warung C",
+          "totalBarang":1500,
+          "icon":"store",
+          "totalUangYangHarusDibayar":" 1500000",
+          "namaPemilik":"C",
+          "alamat":"C"
+       },
+       {
+          "namaWarung":"Warung D",
+          "totalBarang":200,
+          "icon":"store",
+          "totalUangYangHarusDibayar":" 200000",
+          "namaPemilik":"D",
+          "alamat":"D"
+       }
+    ],
+    "dataIcon":[
+       {
+          "name":"user"
+       },
+       {
+          "name":"store"
+       },
+       {
+          "name":"store-alt"
+       },
+       {
+          "name":"shopping-basket"
+       }
+    ]
+ }
